@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Ultra_Instinct_Dev-%23ffcc00?style=for-the-badge&logo=dragon-ball&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmp0emxudmF0eXNwZHN2YTA1bzRnZzJucmV0MWpwZWp4cXNiano4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NXjxwCoPmCvNQpsVjR/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/NXjxwCoPmCvNQpsVjR/giphy.gif" width="600"/>
 </p>
 
 <p align="center">
