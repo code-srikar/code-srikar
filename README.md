@@ -1,6 +1,6 @@
 <h1 align="center">🧠 The Debugger of Kamehameha ⚔️</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="600"/>
+  <img src="[https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif](https://tenor.com/search/saiyangokugtz-gifs)" width="600"/>
 </p>
 
 <p align="center">
