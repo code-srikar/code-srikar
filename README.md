@@ -1,46 +1,57 @@
-<h1 align="center">Super Saiyan Srikar 🐉💻</h1>
+<h1 align="center">🧠 The Debugger of Kamehameha ⚔️</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="600"/>
 </p>
 
 <p align="center">
-  <strong>Coding in the Gravity Chamber, aiming for Ultra Instinct 🔥</strong>
+  <strong><i>Mastering Code. One LeetCode at a time. Ultra Instinct incoming...</i></strong>
 </p>
 
 ---
 
-### 👋 Yo! I'm Srikar aka `code-srikar`
-- 🧠 DSA power level: **900+** problems (159 on LeetCode)
-- 🚀 Current form: Grinding **Trees**, **Graphs**, and **DP**
-- 🎯 Goal: Master every algorithm in the Tournament of Code
+## 🌌 About Me
+- 👨‍💻 **Name:** Srikar a.k.a `code-srikar`
+- 🔗 [LeetCode: Srikar_004](https://leetcode.com/Srikar_004/)
+- 💥 DSA Power Level: **900+** (159 on LeetCode)
+- 📚 Grinding: **Trees**, **Graphs**, **Dynamic Programming**
+- 🧪 Fun Fact: AC = Spirit Bomb. Compilation errors = Krillin moments 😅
 
 ---
 
-### 🧙‍♂️ Saiyan's DSA Routine
+## 🔥 My Coding Arena
 ```python
 class Saiyan:
     def __init__(self):
         self.name = "Srikar"
-        self.platforms = ["LeetCode", "GFG", "Codeforces"]
-        self.focus = ["Trees", "Graphs", "DP"]
-        self.power_level = 900
+        self.platforms = ["LeetCode", "Codeforces", "GFG"]
+        self.form = "The Debugger of Kamehameha"
+        self.focus = ["DP", "Graphs", "Trees"]
 
     def train(self):
-        while self.power_level < 9000:
+        while True:
             self.solve_problems()
-            self.evolve_logic()
+            self.learn()
             self.break_limits()
 ```
 
 ---
 
-### 🔗 Connect with Me
-- 🧩 LeetCode: [Srikar_004](https://leetcode.com/Srikar_004/)
-- 💻 GitHub: [code-srikar](https://github.com/code-srikar)
+## 🧱 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-srikar&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-srikar&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
 ---
 
-### 🐲 Favorite Quote
+## 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-srikar&bg_color=0d1117&color=58a6ff&line=2f81f7&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🐉 Quote That Fuels Me
 > "Power comes in response to a need, not a desire." — Goku
 
 ---
@@ -50,5 +61,5 @@ class Saiyan:
 </p>
 
 <p align="center">
-  <b>Next Goal:</b> Reach Ultra Instinct — 1000+ Problems & Master DP ⚔️
+  <b>💯 Next Milestone:</b> Unlock Ultra Instinct Mode → 1000+ problems solved, full mastery over DP 💙
 </p>
