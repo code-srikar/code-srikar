@@ -1,6 +1,6 @@
 <h1 align="center">🧠 The Debugger of Kamehameha ⚔️</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Ultra_Instinct_Dev-%23ffcc00?style=for-the-badge&logo=dragon-ball&logoColor=white"/>
+  <img src="goku-kid-goku-niño.gif"/>
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/NXjxwCoPmCvNQpsVjR/giphy.gif" width="600"/>
