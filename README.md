@@ -20,7 +20,7 @@
 
 ## 🌟 About This Saiyan
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" src="goku-kid-goku-niño.gif">
 
 ```javascript
 const saiyan = {
@@ -155,7 +155,7 @@ Current Objectives:
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="400"/>
+  <img src="dbs-broly.gif" width="400"/>
   
   ### 🌟 *"The journey to Ultra Instinct continues..."* 🌟
   
