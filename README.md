@@ -72,7 +72,6 @@ const developer = {
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### 🗄️ Database Techniques
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -84,6 +83,7 @@ const developer = {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000578?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
@@ -95,7 +95,7 @@ const developer = {
 
 ### 🌟 **QuickBite** | *Full Stack*
 [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/code-srikar/foodapp.git)
-[![Live](https://img.shields.io/badge/Live-Demo-FF6B35?style=for-the-badge&logo=vercel)]()
+[![Live](https://img.shields.io/badge/Live-Demo-FF6B35?style=for-the-badge&logo=vercel)](https://s-quick-bite.netlify.app/)
 
 **Tech Stack:** React • Node.js • MongoDB • JWT Auth  
 **Features:** User authentication, admin dashboard, order management  
@@ -104,7 +104,6 @@ const developer = {
 
 ### 🔥 **mediConnect** | *Full Stack*
 [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/code-srikar/mediConnect.git)
-[![Live](https://img.shields.io/badge/Live-Demo-FF6B35?style=for-the-badge&logo=vercel)]()
 
 **Tech Stack:** React • Express • MongoDB • JWT  
 **Features:** Appointment booking, file storing, payment integration  
@@ -113,7 +112,7 @@ const developer = {
 
 ### ⚡ **Task Management** | *Backend Focus*
 [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/code-srikar/Tasks.git)
-[![Docs](https://img.shields.io/badge/API-Documentation-4CAF50?style=for-the-badge&logo=swagger)]()
+[![Docs](https://img.shields.io/badge/API-Documentation-4CAF50?style=for-the-badge&logo=swagger)](https://s-taskify.netlify.app/)
 
 **Tech Stack:** React.js • MongoDB • Node.js  
 **Features:** RESTful API, role-based auth  
@@ -122,7 +121,7 @@ const developer = {
 
 ### 🎮 **Portfolio Website** | *Creative Showcase*
 [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/code-srikar/my_portfolio.git)
-[![Live](https://img.shields.io/badge/Live-Site-FF6B35?style=for-the-badge&logo=vercel)]()
+[![Live](https://img.shields.io/badge/Live-Site-FF6B35?style=for-the-badge&logo=vercel)](https://msrikar-portfolio.netlify.app/)
 
 **Tech Stack:** React.js • TypeScript • Tailwind CSS • Framer Motion  
 **Features:** Responsive design, animations, dark mode, contact form  
@@ -206,11 +205,11 @@ Current Objectives:
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://msrikar-portfolio.netlify.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikar-marikanti-120191285)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/code-srikar)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:official.srikar.work@gmail.com)
+  [![Codolio](https://img.shields.io/badge/Codolio-1DA1F2?style=for-the-badge&logo=codolio&logoColor=white)](https://codolio.com/profile/srikar666)
 
 </div>
 
