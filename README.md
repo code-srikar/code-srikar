@@ -34,7 +34,7 @@ const developer = {
         frontend: ["React", "Next.js", "JavaScript", "TypeScript"],
         backend: ["Node.js", "Express", "Python", "Django"],
         databases: ["MongoDB", "MySQL"],
-        tools: ["Git", "Docker", "AWS", "Firebase"]
+        tools: ["Git", "GitHub", "Docker", "AWS", "Firebase", "Android Studio", "VSCode"]
     },
     
     specialties: [
@@ -79,12 +79,12 @@ const developer = {
 
 ### 🛠️ Developer Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000578?style=for-the-badge&logo=render&logoColor=white)
-![Android Studio](https://img.shields.io/badge/AndroidStudio-000578?style=for-the-badge&logo=render&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
