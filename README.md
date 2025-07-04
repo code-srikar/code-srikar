@@ -79,11 +79,14 @@ const developer = {
 
 ### 🛠️ Developer Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000578?style=for-the-badge&logo=render&logoColor=white)
+![Android Studio](https://img.shields.io/badge/AndroidStudio-000578?style=for-the-badge&logo=render&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -95,7 +98,7 @@ const developer = {
 
 ### 🌟 **QuickBite** | *Full Stack*
 [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/code-srikar/foodapp.git)
-[![Live](https://img.shields.io/badge/Live-Demo-FF6B35?style=for-the-badge&logo=vercel)](https://s-quick-bite.netlify.app/)
+[![Live](https://img.shields.io/badge/Live-Demo-FF6B35?style=for-the-badge&logo=netlify)](https://s-quick-bite.netlify.app/)
 
 **Tech Stack:** React • Node.js • MongoDB • JWT Auth  
 **Features:** User authentication, admin dashboard, order management  
@@ -112,7 +115,7 @@ const developer = {
 
 ### ⚡ **Task Management** | *Backend Focus*
 [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/code-srikar/Tasks.git)
-[![Docs](https://img.shields.io/badge/API-Documentation-4CAF50?style=for-the-badge&logo=swagger)](https://s-taskify.netlify.app/)
+[![Live](https://img.shields.io/badge/Live-Demo-FF6B35?style=for-the-badge&logo=netlify)](https://s-taskify.netlify.app/)
 
 **Tech Stack:** React.js • MongoDB • Node.js  
 **Features:** RESTful API, role-based auth  
@@ -121,7 +124,7 @@ const developer = {
 
 ### 🎮 **Portfolio Website** | *Creative Showcase*
 [![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/code-srikar/my_portfolio.git)
-[![Live](https://img.shields.io/badge/Live-Site-FF6B35?style=for-the-badge&logo=vercel)](https://msrikar-portfolio.netlify.app/)
+[![Live](https://img.shields.io/badge/Live-Site-FF6B35?style=for-the-badge&logo=netlify)](https://msrikar-portfolio.netlify.app/)
 
 **Tech Stack:** React.js • TypeScript • Tailwind CSS • Framer Motion  
 **Features:** Responsive design, animations, dark mode, contact form  
@@ -205,11 +208,11 @@ Current Objectives:
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://msrikar-portfolio.netlify.app/)
+  [![Codolio](https://img.shields.io/badge/Codolio-1DA1F2?style=for-the-badge&logo=codolio&logoColor=white)](https://codolio.com/profile/srikar666)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikar-marikanti-120191285)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/code-srikar)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://msrikar-portfolio.netlify.app/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:official.srikar.work@gmail.com)
-  [![Codolio](https://img.shields.io/badge/Codolio-1DA1F2?style=for-the-badge&logo=codolio&logoColor=white)](https://codolio.com/profile/srikar666)
 
 </div>
 
